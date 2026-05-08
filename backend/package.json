@@ -1,0 +1,22 @@
+{
+  "name": "into-to-bakend-control-route-pattern",
+  "version": "1.0.0",
+  "description": "a tutorial  to  backend using control route pattern with node js express and mongodb",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.5.0",
+    "nodemon": "^3.1.14"
+  }
+}
